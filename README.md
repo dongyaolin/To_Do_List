@@ -14,6 +14,7 @@
 - 使用 Python 编程语言。
 - 结合 Tkinter 创建图形用户界面。
 - 任务列表和状态保存在本地文本文件中。
+- py2exe-> pyinstaller --onefile --noconsole app.py
 
 ## 用途
 
